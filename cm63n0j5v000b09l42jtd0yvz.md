@@ -11,15 +11,15 @@ tags: android-app-development, java, projects, android, android-studio, apk
 
 Connectra is more than just an app; it’s a solution to a problem many of us face in today’s world - learning new skills without burning a hole in our pockets. Imagine a world where students and professionals alike can exchange their knowledge and expertise without expensive course fees. With Connectra, I’ve turned this idea into reality. This blog dives deep into my journey of building Connectra, the features it offers, the challenges I overcame, and how it shaped me as a developer.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737291795294/e584d4d1-5a75-4796-8b47-65ac88a4114e.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737461730969/33d9c6dd-7ae3-449e-88a9-7124dccebf2c.png align="center")
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737291798297/578ae0e9-1770-4899-82d4-f1a0b59223b3.png align="center")
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737291802408/aeecb9e0-6fb2-4c4e-9f5c-c86415143f5e.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737461896845/0e85b6c9-e6dd-42f6-88e9-b00d8f396320.png align="center")
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737291806771/cbfeaaef-52b1-4830-b50a-369905880cc6.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737461908564/77615cc0-c66f-4244-b9d6-275d6b438ee4.png align="center")
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737291810990/4d1b9646-f1c9-4aaf-830d-81fe97145aa7.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737461916277/b60aa810-a608-4c6a-8dab-b573eaf2d2e3.png align="center")
 
 ## **The Vision Behind Connectra**
 
