@@ -119,8 +119,6 @@ This section is all about showcasing your unique expertise and personality to ot
         
     * Realtime Database
         
-    * Firebase Cloud Messaging (FCM)
-        
     * Storage
         
 
@@ -135,7 +133,7 @@ This section is all about showcasing your unique expertise and personality to ot
 
 ### **1\. Firebase Storage Costs**
 
-When Firebase introduced its new policy, storage was no longer free. To minimize expenses, I used my friend’s Firebase project for storage while leveraging my Firebase project for authentication, Realtime Database, and FCM. I even wrote a [dedicated blog](https://my-learnt-tech-stacks.hashnode.dev/cracking-dual-firebase-setup-to-save-costs) on how I achieved this workaround.
+When Firebase introduced its new policy, storage was no longer free. To minimize expenses, I used my friend’s Firebase project for storage while leveraging my Firebase project for authentication and Realtime Database. I even wrote a [dedicated blog](https://my-learnt-tech-stacks.hashnode.dev/cracking-dual-firebase-setup-to-save-costs) on how I achieved this workaround.
 
 ### **2\. Learning Curve**
 
