@@ -129,6 +129,31 @@ This section is all about showcasing your unique expertise and personality to ot
 * **CircularImageView**: To enhance the visual appeal of profile pictures.
     
 
+## Connectra (Admin Version)
+
+In addition to the Connectra app, I also developed a **dedicated admin application**. This admin app serves as a control center for managing the **real-time database** connected to the primary app. Here's what makes it special:
+
+1. **Real-Time Control**:
+    
+    * The admin app uses a **ValueEventListener** that continuously monitors a boolean value called `isActive`, stored under the `detonator` branch in the database.
+        
+    * When `isActive` is set to `true`, the user-facing app behaves normally. However, when switched to `false`, the app triggers a popup (like the one shown in the second image), notifying users that the app is under maintenance - regardless of which page they are on.
+        
+2. **User Management**:
+    
+    * The admin app includes a **search feature** to locate specific users by skill or email.
+        
+    * If a user exhibits inappropriate behavior or violates guidelines, the admin can delete their account entirely with a single tap.
+        
+3. **Seamless Integration**:
+    
+    * Both the admin app and Connectra share the same Firebase database, ensuring real-time synchronization and streamlined operations.
+        
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737566012538/76fb8538-cf09-4113-a0c2-fb30ff95d59a.png align="center")
+
+By creating this admin panel, I ensured robust backend control, providing an extra layer of functionality to manage the Connectra platform efficiently.
+
 ## **Overcoming Challenges**
 
 ### **1\. Firebase Storage Costs**
