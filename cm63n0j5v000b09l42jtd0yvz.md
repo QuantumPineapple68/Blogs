@@ -11,15 +11,17 @@ tags: android-app-development, java, projects, android, android-studio, apk
 
 Connectra is more than just an app; it’s a solution to a problem many of us face in today’s world - learning new skills without burning a hole in our pockets. Imagine a world where students and professionals alike can exchange their knowledge and expertise without expensive course fees. With Connectra, I’ve turned this idea into reality. This blog dives deep into my journey of building Connectra, the features it offers, the challenges I overcame, and how it shaped me as a developer.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737461730969/33d9c6dd-7ae3-449e-88a9-7124dccebf2c.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742287735117/e1b8aa83-7456-4181-a251-14990a7362eb.jpeg align="center")
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737291798297/578ae0e9-1770-4899-82d4-f1a0b59223b3.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742287740013/2eae9f8f-5201-4762-ad38-3f1dc89b8fe3.jpeg align="center")
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737461896845/0e85b6c9-e6dd-42f6-88e9-b00d8f396320.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742287745617/f336665a-a55c-48d4-b353-5ba3cddf8f31.jpeg align="center")
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737461908564/77615cc0-c66f-4244-b9d6-275d6b438ee4.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742287748339/8f86cd4e-a566-4175-a0df-36291f3de763.jpeg align="center")
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737461916277/b60aa810-a608-4c6a-8dab-b573eaf2d2e3.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742287752599/62c49e24-2586-4c8e-a334-2f3424b5a551.jpeg align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742287754233/4f716d07-4284-41db-a8ce-9194a1a78062.jpeg align="center")
 
 ## **The Vision Behind Connectra**
 
@@ -77,15 +79,19 @@ The Search section lets users find people by the skills they want to learn. The 
 
 ### **4\. Schedule Section: Organize Your Learning**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737285970560/abe49880-7552-483f-966d-6e95c328c488.jpeg align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742287820626/8e3043bc-8142-45e5-a6e6-f34c971f0465.jpeg align="center")
 
-This section doubles as a to-do list and calendar app, allowing users to manage their learning schedules effectively.
+This section doubles as a Real-time Collaborative to-do list and calendar app, allowing users to manage their learning schedules effectively.
 
 * **Features**:
     
-    * Assign tasks to specific dates.
+    * Send Requests and connect to your learning Partner
+        
+    * Assign tasks for them to specific dates.
         
     * Delete tasks when completed or no longer needed.
+        
+    * Check-Box to Strikethrough
         
     * Cloud storage powered by Firebase ensures tasks are saved and synchronized across devices in real-time.
         
